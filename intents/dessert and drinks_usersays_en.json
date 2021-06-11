@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c788bbbb-67ee-40e1-ae11-8dd2903a56ab",
+    "data": [
+      {
+        "text": "dessert and drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54bc1142-0813-4e0c-b984-89655df3b4a4",
+    "data": [
+      {
+        "text": "drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd65fd41-3162-4033-93f8-cc5bc2bf4d4e",
+    "data": [
+      {
+        "text": "dessert",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
